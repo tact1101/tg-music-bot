@@ -1,0 +1,3 @@
+- Bot accepts the song request. 
+- RabbitMQ get the task ann runs in background. Whenn parsing and transforming mp4 -> mp3 is done it is sent to bot.
+- Bot send an answer.
