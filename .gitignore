@@ -2,13 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache
 
 # Distribution / packaging
 .Python
 build/
 
-# poetry 
-pyproject.toml
-
 # Environments
 .venv
+
