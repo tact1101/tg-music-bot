@@ -1,3 +1,7 @@
+# logs
+logs
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -10,4 +14,9 @@ build/
 
 # Environments
 .venv
+
+# node 
+node_modules/
+jspm_packages/
+
 
